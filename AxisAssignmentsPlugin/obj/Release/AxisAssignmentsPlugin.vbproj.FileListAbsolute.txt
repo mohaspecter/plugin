@@ -9,3 +9,16 @@ C:\Users\admin\Desktop\Generic2D_Example_AxisAssignmentsPlugin\AxisAssignmentsPl
 C:\Users\admin\Desktop\Generic2D_Example_AxisAssignmentsPlugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.dll
 C:\Users\admin\Desktop\Generic2D_Example_AxisAssignmentsPlugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.xml
 C:\Users\admin\Desktop\Generic2D_Example_AxisAssignmentsPlugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.pdb
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\bin\Release\Generic2DExample_AxisAssignmentsPlugin.dll
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\bin\Release\Generic2DExample_AxisAssignmentsPlugin.pdb
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\bin\Release\Generic2DExample_AxisAssignmentsPlugin.xml
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\bin\Release\AxisAssignments_PluginAPI.dll
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\AxisAssignmentsPlugin.vbprojAssemblyReference.cache
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.Resources.resources
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.UserControl_Settings.resources
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\AxisAssignmentsPlugin.vbproj.GenerateResource.cache
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\AxisAssignmentsPlugin.vbproj.CoreCompileInputs.cache
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\AxisAssignmentsPlugin.vbproj.CopyComplete
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.dll
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.xml
+D:\GitHub\RS\plugin\AxisAssignmentsPlugin\obj\Release\Generic2DExample_AxisAssignmentsPlugin.pdb
